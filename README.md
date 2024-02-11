@@ -16,6 +16,7 @@ It is a simple server on Express.js which helps us to get articles from NewsAPI,
 - Express.js
 - MVC pattern
 - JavaScript
+- Hosted on Render.com
 
 ## Setup
 
